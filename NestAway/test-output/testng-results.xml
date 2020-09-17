@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[This is a NestAway project]]>
+    </line>
+    <line>
+      <![CDATA[Excel Report is generated ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120974" started-at="2020-07-20T18:34:22 IST" finished-at="2020-07-20T18:36:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120974" started-at="2020-07-20T18:34:22 IST" finished-at="2020-07-20T18:36:23 IST">
+      <class name="com.NestAway.tests.Testclass">
+        <test-method status="PASS" signature="ProductInfo()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="ProductInfo" is-config="true" duration-ms="60" started-at="2020-07-20T18:34:22 IST" finished-at="2020-07-20T18:34:22 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[This is a NestAway project]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ProductInfo -->
+        <test-method status="PASS" signature="setproperty()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="setproperty" is-config="true" duration-ms="32560" started-at="2020-07-20T18:34:22 IST" finished-at="2020-07-20T18:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setproperty -->
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="OpenApp" is-config="true" duration-ms="12718" started-at="2020-07-20T18:34:55 IST" finished-at="2020-07-20T18:35:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="login" duration-ms="71567" started-at="2020-07-20T18:35:08 IST" finished-at="2020-07-20T18:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="CloseApp" is-config="true" duration-ms="4005" started-at="2020-07-20T18:36:19 IST" finished-at="2020-07-20T18:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method status="PASS" signature="ExcelReport()[pri:0, instance:com.NestAway.tests.Testclass@bd8db5a]" name="ExcelReport" is-config="true" duration-ms="0" started-at="2020-07-20T18:36:24 IST" finished-at="2020-07-20T18:36:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Excel Report is generated ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExcelReport -->
+      </class> <!-- com.NestAway.tests.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
